@@ -1,0 +1,20 @@
+# Data (not distributed — see README)
+*.csv
+*.xlsx
+*.xls
+data/
+input/
+output/
+
+# Notebook checkpoints / caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Model artifacts
+*.pt
+*.pth
+*.pkl
+
+# OS
+.DS_Store
